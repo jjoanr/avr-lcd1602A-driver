@@ -32,7 +32,7 @@ The default pin mappings are configured for the ATmega2560.
 1. Clone the repository:
 
     ```sh
-    git https://github.com/jjoanr/avr-lcd1602A-driver.git
+    git clone https://github.com/jjoanr/avr-lcd1602A-driver.git
     ```
 
 2. Change pin mappings for the lcd in the header file, then include it in you project:
