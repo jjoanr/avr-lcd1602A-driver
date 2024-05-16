@@ -16,7 +16,7 @@ This repository provides a driver for interfacing the LCD1602A display module wi
 
 ## Pin Configuration
 
-The default pin mappings are configured for the ATmega2560 (in a mega2506 board).
+The default pin mappings are configured for the ATmega2560.
 
 | LCD pin | ATmega2560 pin  |
 |---------|-----------------|
